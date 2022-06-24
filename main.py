@@ -8,7 +8,7 @@ from telegram import *
 from telegram.ext import * 
 from requests import *
 
-updater = Updater("5346368485:AAFHpaZzzUolArLAvImfV4-mVpE_u4W3rj8",
+updater = Updater(Token,
 				use_context=True)
 #randomImageText = "Random Image"
 
